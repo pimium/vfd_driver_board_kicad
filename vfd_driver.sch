@@ -258,7 +258,7 @@ Wire Wire Line
 Wire Wire Line
 	5650 2100 5650 2400
 $Comp
-L vfd_driver-rescue:futaba_7_lt_44z-custom-vfd_driver-rescue J2
+L vfd_driver-rescue:futaba_7_lt_44z-custom-vfd_driver-rescue-vfd_driver-rescue J2
 U 1 1 5C057512
 P 10550 4600
 F 0 "J2" H 10828 4601 50  0000 L CNN
@@ -1529,8 +1529,4 @@ Wire Wire Line
 Wire Wire Line
 	1150 1500 1300 1500
 Connection ~ 1300 1500
-Wire Wire Line
-	8600 3400 8600 3550
-Wire Wire Line
-	7850 3400 8600 3400
 $EndSCHEMATC
